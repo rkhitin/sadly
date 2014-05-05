@@ -13,8 +13,7 @@
         </div>
 
         <div class="collapse navbar-collapse">
-            <?php wp_nav_menu( array( 'theme_location' => 'header-menu', 'menu_class' => 'nav navbar-nav', ) ); ?>
-
+            <?php wp_nav_menu( array( 'theme_location' => 'header-menu', 'menu_class' => 'nav navbar-nav', 'walker' => new CSS_Menu_Maker_Walker() ) ); ?>
         </div><!--/.navbar-collapse -->
     </div>
 </div>

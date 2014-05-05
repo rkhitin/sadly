@@ -37,6 +37,9 @@ body {
 .current-menu-item>a {
     color: #999 !important;
 }
+.dropdown-arrow {
+    font-size: 15px;
+}
 
 /* Sidebar */
 .sidebar {
