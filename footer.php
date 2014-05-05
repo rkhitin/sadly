@@ -1,6 +1,7 @@
     <div id="footer">
       <div class="container">
-        <p class="text-muted">Place sticky footer content here.</p>
+        <p class="text-center footer-text">&copy; <?= date('Y');?> <strong class='footer-title'><?php bloginfo('name');?></strong> - <?php bloginfo('description'); ?></p>
+        <p class="text-center">Работает на <a href='http://wordpress.org/'>WordPress</a>, тема основана на <a href='http://bootswatch.com/flatly/'>Flatly</a>.</p>
       </div>
     </div>
 
