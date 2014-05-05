@@ -1,0 +1,62 @@
+body {
+    font-family: "PT Sans",Arial,sans-serif !important;
+    font-size: 18px !important;
+    line-height: 1.4 !important;
+    color: #333 !important;
+}
+
+/* Header  */
+.home-header {
+    padding-top: 10px !important;
+    padding-bottom: 20px !important;
+    background-color: #395B7C;
+}
+.home-header h1 {
+    font-family: 'Lobster', cursive !important;
+    color: #ddd;
+    margin-bottom: 5px;
+    font-size: 45px;
+}
+.home-header h2 {
+    color: #ddd;
+    margin-top: 5px;
+    font-size: 25px;
+    font-family: 'PT Serif', serif;
+}
+.home-header h1 a:hover {
+    text-decoration: none !important;
+}
+/* Menu */
+.navbar-brand {
+    font-size: 35px;
+    font-family: 'Lobster', cursive;
+}
+.current-menu-item {
+    background-color: #1a242f;
+}
+.current-menu-item>a {
+    color: #999 !important;
+}
+
+/* Sidebar */
+.sidebar {
+    border-left: 2px solid #888;
+    /* background-color: #444; */
+}
+.sidebar .form-inline .btn {
+    padding: 7px 10px;
+}
+
+.sidebar .widget-title {
+   text-align: center; 
+   font-size: 20px;
+   border-bottom: 1px solid #ccc;
+   padding-bottom: 3px;
+}
+
+/* Post */
+.post-info {
+    color: #888;
+    font-size: 16px;
+}
+
