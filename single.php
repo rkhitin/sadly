@@ -4,7 +4,7 @@
     <?php get_template_part('nav'); ?>
 
     <!-- Begin page content -->
-    <div class="container">
+    <div class="container body-container">
         <div class="col-md-9">
             <?php while(have_posts()): the_post(); ?>
                 <?php get_template_part('content', 'single'); ?>

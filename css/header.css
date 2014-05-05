@@ -57,6 +57,12 @@ body {
    padding-bottom: 3px;
 }
 
+/* Container  */
+.body-container {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
 /* Post */
 .post-info {
     color: #888;
