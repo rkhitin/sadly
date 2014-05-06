@@ -14,4 +14,8 @@
         <?php get_sidebar(); ?>
     </div>  <!-- container -->
 
+	<div class='container comments'>
+		<?php disqus_embed(); ?>
+	</div>
+
 <?php get_footer(); ?>
