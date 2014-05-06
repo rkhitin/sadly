@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-	<title>Ronhit</title>
+	<title>Ronhit <?php wp_title( '|', true, 'left' ); ?></title>
 
     <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <link rel="stylesheet" href="<?=get_template_directory_uri()?>/css/bootstrap.min.css">
