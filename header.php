@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-	<title><?php wp_title( '|', true, 'right' ); ?></title>
+	<title>Ronhit</title>
 
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <link rel="stylesheet" href="<?=get_template_directory_uri()?>/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?=get_template_directory_uri()?>/css/sticky-footer-navbar.css">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
