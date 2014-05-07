@@ -12,8 +12,16 @@
     <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=PT+Serif&subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
 
-    <link rel="stylesheet" href="<?=get_template_directory_uri()?>/css/header.css">
+    <link rel="stylesheet" href="<?=get_template_directory_uri()?>/css/main.css">
+    
 
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
+
+<div id="goup-cursor"></div>
+<div id='goup'>
+    <div class='goup-arrow'>
+        <i class="fa fa-arrow-up fa2x"></i>
+    </div>
+</div>

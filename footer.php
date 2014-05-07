@@ -11,6 +11,7 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.1/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src='<?=get_template_directory_uri()?>/js/main.js'></script>
 
     <?php wp_footer(); ?>
 </body>
