@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta name='yandex-verification' content='6900745d53a23acd' />
+    <meta name="google-site-verification" content="JWea_s4LQchUKcJJ_JD-lZHP_fUlcPHCMwDdnyNlXdA" />
 
     <meta charset="UTF-8">
 	<title>Ronhit <?php wp_title( '|', true, 'left' ); ?></title>
