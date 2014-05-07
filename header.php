@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name='yandex-verification' content='6900745d53a23acd' />
+
     <meta charset="UTF-8">
 	<title>Ronhit <?php wp_title( '|', true, 'left' ); ?></title>
 
