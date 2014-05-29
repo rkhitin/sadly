@@ -88,6 +88,9 @@ blockquote {
     padding-bottom: 20px;
 }
 
+article {
+    margin-bottom: 30px;
+}
 /* Post */
 .post-info {
     color: #888;
