@@ -18,7 +18,8 @@
     <link rel="stylesheet" href="<?=get_template_directory_uri()?>/css/main.css">
     
 
-	<?php wp_head(); ?>
+    <?php wp_head(); ?>
+    <script src='/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js'></script>
 </head>
 <body <?php body_class(); ?>>
 
