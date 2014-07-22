@@ -139,3 +139,11 @@ function oriolo_pagination($pages = '', $range = 2)
     $output .= "</li>\n";
   }
 }
+
+
+function myformatTinyMCE($in)
+{
+    $in['entity_encoding '] = 'raw';
+    return $in;
+}
+add_filter('tiny_mce_before_init', 'myformatTinyMCE' );
