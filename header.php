@@ -19,7 +19,6 @@
     
 
     <?php wp_head(); ?>
-    <!-- <script src='/wp&#45;content/plugins/ckeditor&#45;for&#45;wordpress/ckeditor.config.js'></script> -->
 </head>
 <body <?php body_class(); ?>>
 

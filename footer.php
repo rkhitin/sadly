@@ -50,6 +50,7 @@
     <noscript><div><img src="//mc.yandex.ru/watch/24905525" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
 
+    <script src='/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js'></script>
     <?php wp_footer(); ?>
 </body>
 </html>
