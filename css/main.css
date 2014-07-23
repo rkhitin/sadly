@@ -1,12 +1,16 @@
 body {
     font-family: "PT Sans",Arial,sans-serif !important;
     font-size: 18px !important;
-    line-height: 1.4 !important;
+    line-height: 1.6 !important;
     color: #333 !important;
 }
 
 blockquote {
     font-style: italic !important;
+}
+
+p {
+    margin-bottom: 20px !important;
 }
 
 /* Header  */
