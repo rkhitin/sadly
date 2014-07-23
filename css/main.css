@@ -89,13 +89,13 @@ blockquote {
 }
 
 article {
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 /* Post */
 .post-info {
     color: #888;
     font-size: 16px;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
 }
 .comments {
     margin-top: 30px;
