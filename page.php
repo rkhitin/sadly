@@ -1,4 +1,4 @@
- <?php get_header(); ?>
+<?php get_header(); ?>
 
     <!-- Fixed navbar -->
     <?php get_template_part('nav'); ?>
@@ -14,6 +14,6 @@
         <?php get_sidebar(); ?>
     </div>  <!-- container -->
 
-    <?php get_template_part('comm'); ?>
+    <?php //get_template_part('comm'); ?>
 
 <?php get_footer(); ?>
