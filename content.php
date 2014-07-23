@@ -8,3 +8,4 @@
     
     <?php the_excerpt(); ?>
 </article>
+<hr>
