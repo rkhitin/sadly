@@ -12,3 +12,8 @@
 
         <?php get_sidebar(); ?>
     </div>  <!-- container -->
+<style>
+    .post-info {
+        margin-bottom: 10px;
+    }
+</style>
